@@ -5,3 +5,7 @@ a:hover {
 	color: inherit;
 	cursor: pointer;
 }
+.box {
+	display: flex;
+	justify-content: center;
+}
