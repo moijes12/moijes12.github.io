@@ -40,8 +40,9 @@ a:hover {
 	flex-direction: column;
 	max-height: 50%;
 	max-width: 100%;
-	font-family: 'Cabin Sketch', cursive;
-	font-weight: 22px;
+	font-family: 'Special Elite', cursive;
 	padding-left: 10px;
 	padding-right: 10px;
+	margin-left: 10%;
+	margin-right: 10%;
 }
