@@ -1,3 +1,5 @@
+**If you like this repo, consider forking it and starring it instead of cloning**
+
 ## About this repository
 
 This repo contains the code for my [personal site](https://moijes12.github.io) . 
